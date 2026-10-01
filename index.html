@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mawaquitmax</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <video
+    src="video/mist-over-the-pines.mp4"
+    class="special_video"
+    id="videoplayer"
+    autoplay
+    loop
+    >
+    </video>
+
+    <div class="prayers" id="prayers">
+        <p>Prayers:    </p>
+        <ul>
+            <li id="fajr">Fajr - 00:00</li>
+            <li id="zohr">Zohr - 00:00</li>
+            <li id="asr">Asr - 00:00</li>
+            <li id="maghrib">Maghrib - 00:00</li>
+            <li id="isha">Isha - 00:00</li>
+        </ul>
+    </div>
+
+
+    <div id="draggable">
+        <p class="nice">
+        •  •  • <br>
+        •  •  •
+        </p>
+        <select id="choosing" class="selection"></select>
+    </div>
+
+    <script src="scripts/script.js"></script>
+    <script src="scripts/calendarlist.js"></script>
+    <script src="scripts/prayers.js"></script>
+</body>
+</html>
