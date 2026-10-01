@@ -11,7 +11,7 @@ This is an html page I have made that contains all the prayer times of the curre
 </br>
 
 <h2>How to add/change the times from my mosque?</h2>
-
+<b>You will need <a href="https://www.python.org/downloads/">Python</a> installed.</b></br>
 <ul>
  <li>If your mosque does not have a mawaqit page, I'm sorry...</li>
  <li>Otherwise, find your nearest mosques's page via a quick search: </li>
@@ -32,7 +32,7 @@ This is an html page I have made that contains all the prayer times of the curre
 
 
 <h2>How to install</h1>
-You will first need to have <a href="https://github.com/lively-community/lively/tree/master">lively wallpaper</a> installed. </br>
+<b>You will first need to have <a href="https://github.com/lively-community/lively/tree/master">lively wallpaper</a> installed. </br></b>
 Then, go to the <a href="https://github.com/Antilope-cmd/Lively/releases">releases</a> page and download the source code.
 <ul>
   <li>Unzip the file</li>
@@ -45,7 +45,7 @@ Then, go to the <a href="https://github.com/Antilope-cmd/Lively/releases">releas
   <li>You can now delete the unzipped folder and its contents.</li>
 </ul>
 
-<p>Note that each time you will want to add a background you will need to naviguate in the lively directory to modify the code directly</p>
+<p>Note that each time you will want to add a background you will need to navigate in the lively directory to modify the code directly</p>
           <img width="163" height="255" alt="image" src="https://github.com/user-attachments/assets/4da4faae-ad87-440d-a570-0915399e175f" />
 
 
