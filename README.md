@@ -4,7 +4,7 @@ A customizable Lively Wallpaper background that can display prayer times from MA
 </br>
 
 <h2>The Project</h2>
-This is an html page I have made that contains all the prayer times of the current year on you desktop with lively.
+This is an html page I have made that contains all the prayer times of the current year on your desktop with lively.
 <img width="2558" height="1437" alt="image" src="https://github.com/user-attachments/assets/9f51beb3-1fab-49da-9303-051c441f047e" />
 
 </br>
